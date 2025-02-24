@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://preview.redd.it/high-quality-4k-promotional-wallpaper-background-v0-0l2pvt0c4ncc1.png?width=3840&format=png&auto=webp&s=fd1e9cb30510d255fb233204ac6418ce0d830579")
+  }
+  
+  h1 {
+    color: rgb(128, 0, 0);
+    margin-left: 20px;
+  }
+h2 { color: yellow;
+   margin-left: 20px }
+h3 {
+  color: red;
+  margin-left: 20px;
+  font-family: "Comic Sans MS";
+}
+p { color: white;}
+
+a { color: magenta;}
+
+i {color: blue;
+margin-left: 20px;
+}
